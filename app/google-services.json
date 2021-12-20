@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527483152170",
+    "project_id": "pyb-classroom-1cbaa",
+    "storage_bucket": "pyb-classroom-1cbaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527483152170:android:21b6089e7df4026451e053",
+        "android_client_info": {
+          "package_name": "com.patriciadevitasamara.uas_pyb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527483152170-8djdnbs6qvrj41114gcmh01pgrkbgdu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1pWvEJHaGLwbKQ-ZHerrLKA76DRpmN5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527483152170-8djdnbs6qvrj41114gcmh01pgrkbgdu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
